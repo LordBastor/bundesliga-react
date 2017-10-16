@@ -1,6 +1,10 @@
 # sellez/react
 ReactJS web platform for Bundesliga API
 
+## Requirements:
+    * npm
+    * node or nodeenv
+
 ## Install
     npm install
 
