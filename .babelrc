@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./src"],
+        "alias":
+        {
+          "styles": "./src/styles",
+          "static": "./static"
+        },
+        "cwd": "babelrc"
+      }
+    ]
+  ],
+  "presets": [
+    "next/babel"
+  ],
+  "ignore": []
+}
